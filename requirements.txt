@@ -1,0 +1,8 @@
+# GitTrendPulse 依赖文件
+# 纯Python标准库实现，零第三方依赖
+# Python >= 3.8
+
+# 可选依赖（用于开发测试）
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
